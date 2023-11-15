@@ -29,6 +29,10 @@ PROGRAMMING_FILE_EXTENSIONS = [
     ".go",
     ".rs",
     ".swift",
+    ".xml",
+    ".sh",
+    ".tf",
+    ".yaml"
 ]
 
 
